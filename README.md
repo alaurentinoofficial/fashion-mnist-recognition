@@ -69,10 +69,6 @@ The Fashion MNIST it's a dataset developed by Zalando SE and can be found in thi
 <img src="docs/performance.png">
 
 
-
-
-
-
 <br>
 <br>
 <br>
